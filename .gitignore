@@ -1,0 +1,2 @@
+#To ignore the upload of all CSV Files (Dataset)
+*.csv
