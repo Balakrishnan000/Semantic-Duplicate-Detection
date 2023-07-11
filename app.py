@@ -5,7 +5,7 @@ import sklearn
 
 model = pickle.load(open('model.pkl','rb'))
 
-st.header('Duplicate Question Pairs')
+st.header('CatchDup - Semantic Duplicate Detection')
 
 q1 = st.text_input('Enter question 1')
 q2 = st.text_input('Enter question 2')
