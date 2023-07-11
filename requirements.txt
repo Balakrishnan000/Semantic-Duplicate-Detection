@@ -3,3 +3,4 @@ Distance
 fuzzywuzzy
 numpy
 streamlit
+scikit-learn
