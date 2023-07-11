@@ -2,4 +2,3 @@ streamlit
 fuzzywuzzy
 distance
 bs4
-pickle
